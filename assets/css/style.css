@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(white, lightslategrey);
+    border: solid 2px white;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: center;
+
+}
+h1{
+    background-image: linear-gradient(mediumpurple, lightslategrey);
+    border-bottom: solid 2px white;
+    box-shadow: 0px 6px 8px grey;
+}
+
+h3{
+    background-image: radial-gradient(circle, mediumpurple, lightslategrey);
+    border-bottom: solid 2px white;
+    box-shadow: 0px 6px 8px grey;
+    
+}
+p{
+    background-image: radial-gradient(circle, mediumpurple, lightslategrey);
+    border-bottom: solid 2px white;
+    box-shadow: 0px 6px 8px grey;
+}
